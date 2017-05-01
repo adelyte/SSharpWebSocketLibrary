@@ -374,7 +374,7 @@ namespace WebSocketSharp.Net
 		// false -> Need more input.
 		private bool processInput (byte[] data, int length)
 			{
-            CrestronConsole.Print("HttpConnection processInput() data: $0", BitConverter.ToString(data));
+            CrestronConsole.Print("HttpConnection processInput() data: {0}", BitConverter.ToString(data));
 			if (_currentLine == null)
 				_currentLine = new StringBuilder (64);
 
