@@ -77,9 +77,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\ProgramData\Crestron\SDK\SimplSharpReflectionInterface.dll</HintPath>
     </Reference>
-    <Reference Include="SSharpCrestronExtensionsLibrary, Version=1.0.0.13603, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="SSharpCrestronExtensionsLibrary, Version=1.0.0.9616, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\SSharpCrestronExtensionsLibrary\SSharpCrestronExtensionsLibrary\bin\Release\SSharpCrestronExtensionsLibrary.dll</HintPath>
+      <HintPath>..\waveguide-master-program\Waveguide\References\SSharpCrestronExtensionsLibrary.dll</HintPath>
     </Reference>
     <Reference Include="SSharpReflectionExtensionsLibrary, Version=1.0.0.16771, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
